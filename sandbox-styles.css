@@ -1,0 +1,8 @@
+/* 
+  This stylesheet provides styles for sandbox.html page, if you are using it during development.
+  It is not used in your production site — so you can safely delete it if you don't need it.
+*/
+
+:root {
+  background-color: white;
+}
